@@ -9,3 +9,4 @@ services:
     envVars:
       - key: OPENROUTER_API_KEY
         sync: false
+ rootDir: success-box-backend
